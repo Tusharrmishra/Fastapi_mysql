@@ -1,0 +1,24 @@
+user:
+-username
+-email
+-password
+-pwdHash
+
+customer:
+-Customer ID,
+-name
+-contact person
+-email
+-phone number
+-address
+-payment terms
+-credit limit
+-Transaction history
+
+
+admin
+-id
+-firstname
+-lastname
+-password
+
